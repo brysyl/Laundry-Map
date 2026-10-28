@@ -1,0 +1,6 @@
+{
+  "name": "Laundry Map",
+  "description": "On-demand multi-persona laundry marketplace connecting customers, laundromats, and couriers in Nasarawa and Abuja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
